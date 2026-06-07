@@ -1,20 +1,20 @@
 export const educations = [
   {
     id: 1,
-    title: "Bachelor Degree",
-    duration: "2020 - Present",
-    institution: "National University of Bangladesh",
+    title: "Frontend Development Program",
+    duration: "2024 - Present",
+    institution: "Afghan Pathway Program, University of Southern California (USC)",
   },
   {
     id: 2,
-    title: "Higher Secondary Certificate",
-    duration: "2018 - 2020",
-    institution: "Noakhali Islamia Kamil Madrasah",
+    title: "Web Development Internship",
+    duration: "2024 - Present",
+    institution: "Mars Coders",
   },
   {
     id: 3,
-    title: "Secondary School Certificate",
-    duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
-  }
-]
+    title: "Secondary Education (Grade 9)",
+    duration: "2015 - 2021",
+    institution: "Afghanistan",
+  },
+];
