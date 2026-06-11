@@ -12,5 +12,5 @@ export const personalData = {
   twitter: 'https://x.com/Fatima22Mousavi',
   // devUsername: "fatima-mousavi224",
   devUsername: "",
-  resume: "https://drive.google.com/file/d/1eyutpKFFhJ9X-qpQGKhUNnVRkB5Wer00/view?usp=sharing"
+  resume: "https://drive.google.com/file/d/1uwwBaYjKO18VUTXs-j362PUrf5B_cIuI/view?usp=sharing"
 }
